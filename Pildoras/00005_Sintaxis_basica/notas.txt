@@ -72,3 +72,16 @@ Operator 	Name 				Description 												Example
 -------------------------------------------------------------------------------------------------------------------
 ! 			Logical not 		Reverse the result, returns false if the result is true 	!(x < 5 && x < 10) 	
 -------------------------------------------------------------------------------------------------------------------
+
+
+Referencias 
+https://www.alphacodingskills.com/cs/notes/cs-operator-bitwise-or-assignment.php
+https://www.w3schools.com/cs/cs_operators.php
+https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/operators/
+https://www.tutorialspoint.com/csharp/csharp_operators.htm
+https://www.geeksforgeeks.org/c-sharp-operators/
+https://www.javatpoint.com/csharp-operators
+https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/strings/
+
+Video
+https://www.youtube.com/watch?v=-RwdksWQpnQ&list=PLU8oAlHdN5BmpIQGDSHo5e1r4ZYWQ8m4B&index=5
