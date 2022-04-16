@@ -32,6 +32,8 @@ namespace Modulo00006
             Console.WriteLine(edadPersona4);
             Console.WriteLine(edadPersona5);
 
+           
+
         }
     }
 }
