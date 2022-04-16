@@ -1,3 +1,4 @@
+
 Declaracion de variables en C#
 
 
@@ -23,3 +24,8 @@ char 			2 bytes 				Stores a single character/letter, surrounded by
 ------------------------------------------------------------------------------------------------
 string 			2 bytes per character 	Stores a se
 ------------------------------------------------------------------------------------------------
+
+
+Referencias 
+https://www.tutorialesprogramacionya.com/csharpya/detalleconcepto.php?codigo=180
+https://www.w3schools.com/cs/index.php
