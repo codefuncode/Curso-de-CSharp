@@ -1,0 +1,8 @@
+C:\wamp64\www\Proyectos\codefuncode\Curso-de-CSharp\Pildoras\00006_Sintaxis_basica\Modulo00006\Modulo00006\bin\Debug\Modulo00006.exe.config
+C:\wamp64\www\Proyectos\codefuncode\Curso-de-CSharp\Pildoras\00006_Sintaxis_basica\Modulo00006\Modulo00006\bin\Debug\Modulo00006.exe
+C:\wamp64\www\Proyectos\codefuncode\Curso-de-CSharp\Pildoras\00006_Sintaxis_basica\Modulo00006\Modulo00006\bin\Debug\Modulo00006.pdb
+C:\wamp64\www\Proyectos\codefuncode\Curso-de-CSharp\Pildoras\00006_Sintaxis_basica\Modulo00006\Modulo00006\obj\Debug\Modulo00006.csproj.AssemblyReference.cache
+C:\wamp64\www\Proyectos\codefuncode\Curso-de-CSharp\Pildoras\00006_Sintaxis_basica\Modulo00006\Modulo00006\obj\Debug\Modulo00006.csproj.SuggestedBindingRedirects.cache
+C:\wamp64\www\Proyectos\codefuncode\Curso-de-CSharp\Pildoras\00006_Sintaxis_basica\Modulo00006\Modulo00006\obj\Debug\Modulo00006.csproj.CoreCompileInputs.cache
+C:\wamp64\www\Proyectos\codefuncode\Curso-de-CSharp\Pildoras\00006_Sintaxis_basica\Modulo00006\Modulo00006\obj\Debug\Modulo00006.exe
+C:\wamp64\www\Proyectos\codefuncode\Curso-de-CSharp\Pildoras\00006_Sintaxis_basica\Modulo00006\Modulo00006\obj\Debug\Modulo00006.pdb
