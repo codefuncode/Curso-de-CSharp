@@ -26,6 +26,9 @@ string 			2 bytes per character 	Stores a se
 ------------------------------------------------------------------------------------------------
 
 
+
+
+
 Referencias 
 https://www.tutorialesprogramacionya.com/csharpya/detalleconcepto.php?codigo=180
 https://www.w3schools.com/cs/index.php
