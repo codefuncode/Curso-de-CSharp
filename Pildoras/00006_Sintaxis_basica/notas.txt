@@ -1,1 +1,20 @@
+
+
+
+
+
+
+
+
+Referencias 
+https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/types/casting-and-type-conversions
+
+Tipos de datos 
+https://docs.microsoft.com/en-us/dotnet/csharp/fundamentals/types/
+
+Tabla de conversión numérica 
+https://docs.microsoft.com/es-es/dotnet/csharp/language-reference/builtin-types/numeric-conversions
+
+
+Video
 https://www.youtube.com/watch?v=CyG6oaNq8HE&list=PLU8oAlHdN5BmpIQGDSHo5e1r4ZYWQ8m4B&index=6
