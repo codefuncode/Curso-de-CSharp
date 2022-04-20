@@ -1,0 +1,19 @@
+
+
+
+
+
+
+https://www.geeksforgeeks.org/c-sharp-math-class/
+https://docs.microsoft.com/en-us/dotnet/api/system.math?view=net-6.0
+https://www.tutorialspoint.com/math-class-in-chash
+https://code-maze.com/csharp-math/
+https://www.completecsharptutorial.com/csharp-articles/math/
+https://www.c-sharpcorner.com/uploadfile/hirendra_singh/math-class-in-C-Sharp/
+https://www.tutorialspoint.com/Math-class-methods-in-Chash
+https://www.educba.com/math-functions-in-c-sharp/
+
+Metodos del a clase Math
+https://docs.microsoft.com/en-us/dotnet/api/system.math?view=net-6.0#methods
+
+https://www.youtube.com/watch?v=j8SYB_77fmE&list=PLU8oAlHdN5BmpIQGDSHo5e1r4ZYWQ8m4B&index=8

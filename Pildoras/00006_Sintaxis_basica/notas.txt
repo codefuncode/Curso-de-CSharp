@@ -1,9 +1,21 @@
 
+Tambien en visual studio IDE,
+me gusta usar
+///////////////////
+Trace.WriteLine
+///////////////////
+Para ver output en el immediate window mientras hago debugging
 
+    Responder
+    Compartir
+    6 min
 
-
-
-
+Eric Hinkle
+Trace necesita
+/////////////////////////
+Using System.Diagnostics
+/////////////////////////
+https://docs.microsoft.com/en-us/dotnet/api/system.diagnostics.trace?view=net-6.0
 
 
 Referencias 
