@@ -28,7 +28,7 @@ namespace Modulo00008{
 
             double area = radio * radio * PI;
 
-            Console.WriteLine($"El área del; circulo es {area}");
+            Console.WriteLine($"El área del circulo es {area}");
 
 
         }
