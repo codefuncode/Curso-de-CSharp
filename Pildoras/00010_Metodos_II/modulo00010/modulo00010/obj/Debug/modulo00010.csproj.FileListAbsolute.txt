@@ -1,0 +1,8 @@
+C:\wamp64\www\Proyectos\codefuncode\Curso-de-CSharp\Pildoras\00010_Metodos_II\modulo00010\modulo00010\obj\Debug\modulo00010.csproj.AssemblyReference.cache
+C:\wamp64\www\Proyectos\codefuncode\Curso-de-CSharp\Pildoras\00010_Metodos_II\modulo00010\modulo00010\obj\Debug\modulo00010.csproj.SuggestedBindingRedirects.cache
+C:\wamp64\www\Proyectos\codefuncode\Curso-de-CSharp\Pildoras\00010_Metodos_II\modulo00010\modulo00010\obj\Debug\modulo00010.csproj.CoreCompileInputs.cache
+C:\wamp64\www\Proyectos\codefuncode\Curso-de-CSharp\Pildoras\00010_Metodos_II\modulo00010\modulo00010\bin\Debug\modulo00010.exe.config
+C:\wamp64\www\Proyectos\codefuncode\Curso-de-CSharp\Pildoras\00010_Metodos_II\modulo00010\modulo00010\bin\Debug\modulo00010.exe
+C:\wamp64\www\Proyectos\codefuncode\Curso-de-CSharp\Pildoras\00010_Metodos_II\modulo00010\modulo00010\bin\Debug\modulo00010.pdb
+C:\wamp64\www\Proyectos\codefuncode\Curso-de-CSharp\Pildoras\00010_Metodos_II\modulo00010\modulo00010\obj\Debug\modulo00010.exe
+C:\wamp64\www\Proyectos\codefuncode\Curso-de-CSharp\Pildoras\00010_Metodos_II\modulo00010\modulo00010\obj\Debug\modulo00010.pdb
