@@ -5,35 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 
 namespace modulo00010 {
-<<<<<<< HEAD
 
-	 internal class Program {
-			//  ---------------------------------------
-			// Metodo declarado antes de metodo main
-			static void mensajeEnPantalla0(){
-
-			Console.WriteLine("Mensaje en pantalla 0");
-
-			}
-			//  ---------------------------------------
-		  static void Main(string[] args) {
-		  		mensajeEnPantalla0();
-				Console.WriteLine("ok");
-				mensajeEnPantalla1();
-
-		  }
-
-		 //  -------------------------------------------
-      // Método declarado después del método main
-      static void mensajeEnPantalla1(){
-
-         Console.WriteLine("Mensaje en pantalla 1");
-
-      }
-      //  -------------------------------------------
-
-	 }
-=======
   internal class Program{
       // ////////////////////////////////////////// 
       //  Metodo  declarado antes de metodo main
@@ -146,5 +118,5 @@ namespace modulo00010 {
 
 
   }
->>>>>>> e7e7a4b72881638a8afabf1f2ae4c7dab47bed1c
+
 }
