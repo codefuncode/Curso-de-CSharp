@@ -1,6 +1,6 @@
-Nota ver varias veces e incorporar mas investigación 
+Nota: ver varias veces e incorporar mas investigación 
 
-SE explica e uso de los métodos y su declaración 
+Se explica e uso de los métodos y su declaración 
 
 Métodos 
 

@@ -2,8 +2,11 @@
 
 ### Puedes usar este repositorio y consultar las referencias de las anotaciones para que se te facilite la búsqueda autodidacta en el estudio del lenguaje C#
 
+<br/>
+<img alt="C Sharp" src="./cshrpimg.png"/>
 
-## Referencias 
+
+# Referencias 
 
 
 ------------------------------------------------------------------------
