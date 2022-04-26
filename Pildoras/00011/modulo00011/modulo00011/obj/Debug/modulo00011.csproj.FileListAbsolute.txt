@@ -1,0 +1,8 @@
+C:\wamp64\www\Proyectos\codefuncode\Curso-de-CSharp\Pildoras\00011\modulo00011\modulo00011\bin\Debug\modulo00011.exe.config
+C:\wamp64\www\Proyectos\codefuncode\Curso-de-CSharp\Pildoras\00011\modulo00011\modulo00011\bin\Debug\modulo00011.exe
+C:\wamp64\www\Proyectos\codefuncode\Curso-de-CSharp\Pildoras\00011\modulo00011\modulo00011\bin\Debug\modulo00011.pdb
+C:\wamp64\www\Proyectos\codefuncode\Curso-de-CSharp\Pildoras\00011\modulo00011\modulo00011\obj\Debug\modulo00011.csproj.AssemblyReference.cache
+C:\wamp64\www\Proyectos\codefuncode\Curso-de-CSharp\Pildoras\00011\modulo00011\modulo00011\obj\Debug\modulo00011.csproj.SuggestedBindingRedirects.cache
+C:\wamp64\www\Proyectos\codefuncode\Curso-de-CSharp\Pildoras\00011\modulo00011\modulo00011\obj\Debug\modulo00011.csproj.CoreCompileInputs.cache
+C:\wamp64\www\Proyectos\codefuncode\Curso-de-CSharp\Pildoras\00011\modulo00011\modulo00011\obj\Debug\modulo00011.exe
+C:\wamp64\www\Proyectos\codefuncode\Curso-de-CSharp\Pildoras\00011\modulo00011\modulo00011\obj\Debug\modulo00011.pdb
