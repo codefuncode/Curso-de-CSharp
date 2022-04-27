@@ -3,5 +3,164 @@
 Comentarios 
 Identificadores 
 
+
+Palabras clave de instrucciones
+
+    Categorías de instrucciones
+    Instrucciones para el control de excepciones
+    Checked y unchecked
+    Instrucción fixed
+
+Parámetros de métodos
+Palabras clave del espacio de nombres
+Palabras clave de restricción de tipo genérico
+Palabras clave de acceso
+Palabras clave de literales
+Palabras clave contextuales
+Palabras clave para consultas
+
+
+Palabras clave de C#
+
+
+
+Las palabras clave son identificadores reservados predefinidos que tienen un significado especial para el compilador. No podrá utilizarlos como identificadores en el programa a no ser que incluyan @ como prefijo. Por ejemplo, @if es un identificador válido, pero if no lo es, porque if es una palabra clave.
+
+En la primera tabla de este tema se muestran las palabras clave que son identificadores reservados en cualquier parte de un programa en C#. En la segunda tabla de este tema se enumeran las palabras clave contextuales en C#. Las palabras clave contextuales tienen un significado especial solo en un contexto de programa limitado y pueden utilizarse como identificadores fuera de ese contexto. Por lo general, cuando se agregan nuevas palabras clave al lenguaje C#, se agregan como palabras clave contextuales para evitar la interrupción de los programas escritos en versiones anteriores.
+
+abstract
+as
+base
+bool
+break
+byte
+case
+catch
+char
+checked
+class
+const
+continue
+decimal
+default
+delegate
+do
+double
+else
+enum
+
+event
+explicit
+extern
+false
+finally
+fixed
+float
+for
+foreach
+goto
+if
+implicit
+in
+int
+interface
+internal
+is
+lock
+long
+
+namespace
+new
+null
+object
+operator
+out
+override
+params
+private
+protected
+public
+readonly
+ref
+return
+sbyte
+sealed
+short
+sizeof
+stackalloc
+
+static
+string
+struct
+switch
+this
+throw
+true
+try
+typeof
+uint
+ulong
+unchecked
+unsafe
+ushort
+using
+virtual
+void
+volatile
+while
+Palabras clave contextuales
+
+Las palabras clave contextuales se usan para proporcionar un significado específico en el código, pero no son una palabra reservada en C#. Algunas palabras clave contextuales, como partial y where, tienen significados especiales en dos o más contextos.
+
+add
+and
+alias
+ascending
+args
+async
+await
+by
+descending
+dynamic
+equals
+from
+
+get
+global
+group
+init
+into
+join
+let
+managed (convención de llamada de puntero de función)
+nameof
+nint
+not
+
+notnull
+nuint
+on
+or
+orderby
+partial (tipo)
+partial (método)
+record
+remove
+select
+
+set
+unmanaged (convención de llamada de puntero de función)
+unmanaged (restricción de tipo genérico)
+value
+var
+when (condición de filtro)
+where (restricción de tipo genérico)
+where (cláusula de consulta)
+con
+yield
+
+
 Referencias 
+https://docs.microsoft.com/es-es/dotnet/csharp/language-reference/keywords/
+video
 https://www.youtube.com/watch?v=SRT6uq5UTbc&list=PLU8oAlHdN5BmpIQGDSHo5e1r4ZYWQ8m4B&index=3
