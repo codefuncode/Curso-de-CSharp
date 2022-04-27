@@ -16,6 +16,49 @@ Trace necesita
 Using System.Diagnostics
 /////////////////////////
 https://docs.microsoft.com/en-us/dotnet/api/system.diagnostics.trace?view=net-6.0
+///////////////////////////////////////////////////////////////////////////////////////
+
+
+///////////////////////////////////////////////////////////////////////////////////
+sbyte   short, int, long, float, double, decimal o nint
+byte    short, ushort, int, uint, long, ulong, float, double, decimal, nint o nuint
+short   int, long, float, double, o decimal, o nint
+ushort  int, uint, long, ulong, float, double, o decimal, nint, o nuint
+int     long, float, double, o decimal, nint
+uint    long, ulong, float, double, o decimal, o nuint
+long    float, doubleo decimal
+ulong   float, doubleo decimal
+float   double
+nint    long, float, double o decimal
+nuint   ulong, float, double o decimal
+///////////////////////////////////////////////////////////////////////////////////
+
+
+
+C# 1.0 released with .NET 1.0
+
+C# 1.2 (bizarrely enough); released with .NET 1.1
+
+C# 2.0 released with .NET 2.0
+
+C# 3.0 released with .NET 3.5
+
+C# 4.0 released with .NET 4
+
+C# 5.0 released with .NET 4.5
+
+C# 6.0 released with .NET 4.6
+
+C# 7.0 released with .NET 4.6.2
+
+C# 7.3 released with .NET 4.7.2
+
+C# 8.0 released with NET Core 3.0
+
+C# 9.0 released with NET 5.0
+
+C# 10.0 released with NET 6.0
+
 
 
 Referencias 
@@ -26,6 +69,8 @@ https://docs.microsoft.com/en-us/dotnet/csharp/fundamentals/types/
 
 Tabla de conversión numérica 
 https://docs.microsoft.com/es-es/dotnet/csharp/language-reference/builtin-types/numeric-conversions
+
+
 
 
 Video

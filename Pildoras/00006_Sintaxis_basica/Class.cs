@@ -1,4 +1,5 @@
-﻿using System;
+
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -15,34 +16,40 @@ namespace Modulo00006
         {
 
         
-            Console.WriteLine("ok");
-            // ///////////////////////////////////////////
+            // Console.WriteLine("ok");
+            // ----------------------
             //  Declaración variables. 
+            //  En C# podemos declarar las variables sin iniciarla o 
+            // 	iniciarlas en la misma linea.  
             int edadPersona = 40;
             int edadPersona1;
             int edadPersona2;
             int edadPersona3;
             int edadPersona4;
             int edadPersona5;
-            // ///////////////////////////////////////////
-
-            // ////////////////////////////////////////////////
-            //  Podemos asignar valor  a varias variables al mismo tiempo
+            // ----------------------
+            // ----------------------------------------------------------
+            //  Podemos asignar valor a varias variables al mismo tiempo
             //  Sirve para inicial-izar izar las variables todas juntas
             //  ademas debemos respetar le tipo de dato. 
             //  Esto no es común pero existe en el lenguaje
+            // ---------------------------------------------------------
+            // ------------------------
             edadPersona1 =
             edadPersona2 =
             edadPersona3 =
             edadPersona4 =
             edadPersona5 = edadPersona;
-            // ////////////////////////////////////////////////
+            // ------------------------
+            
+            // -----------------------------
             // int edadPersona = 40;
-            Console.WriteLine(edadPersona1);
-            Console.WriteLine(edadPersona2);
-            Console.WriteLine(edadPersona3);
-            Console.WriteLine(edadPersona4);
-            Console.WriteLine(edadPersona5);
+            Console.WriteLine(edadPersona1); // Variable despliega el mismo valor 40
+            Console.WriteLine(edadPersona2); // Variable despliega el mismo valor 40
+            Console.WriteLine(edadPersona3); // Variable despliega el mismo valor 40
+            Console.WriteLine(edadPersona4); // Variable despliega el mismo valor 40
+            Console.WriteLine(edadPersona5); // Variable despliega el mismo valor 40
+            // -----------------------------
 
 
             var variable = "Carlos";
@@ -80,19 +87,6 @@ namespace Modulo00006
             object instanciaDeClase2 = new ClaseDerived();
             Console.WriteLine(instanciaDeClase2 is ClaseBase);  // imprime: True
             Console.WriteLine(instanciaDeClase2 is ClaseDerived); // imprime: True
-
-
-            //  Conversión simplista  de variables 
-            var valor0 = 5;
-           // short tiposhort = valor0;     Error de conversión implícita
-            int tipoint = valor0;
-            long tipolong = valor0;
-            float tipofloat = valor0;
-            double tipodouble = valor0;
-            decimal  tipodecimal = valor0;
-           // nint tiponint = valor0;       Error de conversión implícita
-
-
 
 
 
