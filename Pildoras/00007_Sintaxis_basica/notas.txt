@@ -8,3 +8,6 @@ https://qawithexperts.com/tutorial/c-sharp/34/c-sharp-console-readline-and-read
 https://thedeveloperblog.com/c-sharp
 https://www.w3schools.com/cs/cs_user_input.php
 https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/types/how-to-convert-a-string-to-a-number
+
+ Video
+ https://www.youtube.com/watch?v=18-j9OOHVQc&list=PLU8oAlHdN5BmpIQGDSHo5e1r4ZYWQ8m4B&index=7
