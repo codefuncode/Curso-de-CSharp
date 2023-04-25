@@ -42,5 +42,21 @@ namespace modulo00011 {
             return $"El valor de la suma entre {x} y {y} es: {x+y}";
         }
         // -------------------------------------------------------------
+        //  El confortamiento en cuanto a las operaciones aritméticas
+        //  debe tomarse con cautela  pues una operación aritmética 
+        //  entre int y un double siempre da como resultado un  double 
+        static double sumar(double valor1, double valor2){
+            return valor1 + valor2;
+        }
+        static double restar(double valor1, double valor2){
+            return valor1 + valor2;
+        }        
+        static double multiplicar(double valor1, double valor2){
+            return valor1 + valor2;
+        }        
+        static double dividir(double valor1, double valor2){
+            return valor1 + valor2;
+        }
+
     }
 }

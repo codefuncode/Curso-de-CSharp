@@ -1,0 +1,7 @@
+Agregar :
+Corregir :
+Refactorización :
+Eliminar:
+Documentación:
+Modificación :
+Análisis :

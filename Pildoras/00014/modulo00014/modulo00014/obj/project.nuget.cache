@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "usZemy9Zq+991LlI0foTgbXQPcxdhGXaAttTpIQKLNq1Powe/gQzBpkkXzYaJDg7E592qKtk3YsDobqoos5Bzw==",
+  "success": true,
+  "projectFilePath": "C:\\wamp64\\www\\Proyectos\\codefuncode\\Curso-de-CSharp\\Pildoras\\00014\\modulo00014\\modulo00014\\modulo00014.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Code\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.23\\microsoft.netcore.app.host.win-x64.3.1.23.nupkg.sha512"
+  ],
+  "logs": []
+}

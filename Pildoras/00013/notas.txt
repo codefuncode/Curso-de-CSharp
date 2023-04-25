@@ -1,0 +1,9 @@
+notas.txt
+
+Referencias 
+
+https://docs.microsoft.com/es-es/visualstudio/get-started/csharp/tutorial-debugger?view=vs-2022
+
+
+Video
+https://www.youtube.com/watch?v=Rmnz3xUrrks&list=PLU8oAlHdN5BmpIQGDSHo5e1r4ZYWQ8m4B&index=13

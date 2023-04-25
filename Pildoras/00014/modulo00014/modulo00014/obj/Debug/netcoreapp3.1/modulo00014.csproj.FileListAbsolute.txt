@@ -1,0 +1,14 @@
+C:\wamp64\www\Proyectos\codefuncode\Curso-de-CSharp\Pildoras\00014\modulo00014\modulo00014\bin\Debug\netcoreapp3.1\modulo00014.exe
+C:\wamp64\www\Proyectos\codefuncode\Curso-de-CSharp\Pildoras\00014\modulo00014\modulo00014\bin\Debug\netcoreapp3.1\modulo00014.deps.json
+C:\wamp64\www\Proyectos\codefuncode\Curso-de-CSharp\Pildoras\00014\modulo00014\modulo00014\bin\Debug\netcoreapp3.1\modulo00014.runtimeconfig.json
+C:\wamp64\www\Proyectos\codefuncode\Curso-de-CSharp\Pildoras\00014\modulo00014\modulo00014\bin\Debug\netcoreapp3.1\modulo00014.runtimeconfig.dev.json
+C:\wamp64\www\Proyectos\codefuncode\Curso-de-CSharp\Pildoras\00014\modulo00014\modulo00014\bin\Debug\netcoreapp3.1\modulo00014.dll
+C:\wamp64\www\Proyectos\codefuncode\Curso-de-CSharp\Pildoras\00014\modulo00014\modulo00014\bin\Debug\netcoreapp3.1\modulo00014.pdb
+C:\wamp64\www\Proyectos\codefuncode\Curso-de-CSharp\Pildoras\00014\modulo00014\modulo00014\obj\Debug\netcoreapp3.1\modulo00014.csproj.AssemblyReference.cache
+C:\wamp64\www\Proyectos\codefuncode\Curso-de-CSharp\Pildoras\00014\modulo00014\modulo00014\obj\Debug\netcoreapp3.1\modulo00014.GeneratedMSBuildEditorConfig.editorconfig
+C:\wamp64\www\Proyectos\codefuncode\Curso-de-CSharp\Pildoras\00014\modulo00014\modulo00014\obj\Debug\netcoreapp3.1\modulo00014.AssemblyInfoInputs.cache
+C:\wamp64\www\Proyectos\codefuncode\Curso-de-CSharp\Pildoras\00014\modulo00014\modulo00014\obj\Debug\netcoreapp3.1\modulo00014.AssemblyInfo.cs
+C:\wamp64\www\Proyectos\codefuncode\Curso-de-CSharp\Pildoras\00014\modulo00014\modulo00014\obj\Debug\netcoreapp3.1\modulo00014.csproj.CoreCompileInputs.cache
+C:\wamp64\www\Proyectos\codefuncode\Curso-de-CSharp\Pildoras\00014\modulo00014\modulo00014\obj\Debug\netcoreapp3.1\modulo00014.dll
+C:\wamp64\www\Proyectos\codefuncode\Curso-de-CSharp\Pildoras\00014\modulo00014\modulo00014\obj\Debug\netcoreapp3.1\modulo00014.pdb
+C:\wamp64\www\Proyectos\codefuncode\Curso-de-CSharp\Pildoras\00014\modulo00014\modulo00014\obj\Debug\netcoreapp3.1\modulo00014.genruntimeconfig.cache
